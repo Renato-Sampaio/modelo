@@ -22,11 +22,10 @@
   
 # Descrição
 
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
+## Parte 1/3 - TYPESCRIPT
+Você já deve ter ouvido falar que o TypeScript é um super-set (ou superconjunto) da linguagem JavaScript. Mas o que isso significa? O TypeScript (TS) consegue utilizar todo o contexto do JavaScript (JS) e acrescenta vantagens próprias, como tipagem estática e outros recursos da linguagem que tornam o código menos suscetível a erros durante o desenvolvimento e bugs. Assim, ao utilizar essa linguagem, a sua experiência será bem mais fluida e sofisticada.
 
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
+Nesta formação vamos ver um panorama de uso do TypeScript, mergulhando progressivamente na linguagem, e mostrando as vantagens e diferenças em relação ao JavaScript, além de apresentar as melhores práticas para você utilizar TypeScript nas suas aplicações.
 
 <!-- 
     AS IMAGENS DE BANNERS EU COLOQUEI UM TAMANHO DE 1280 X 300 
@@ -35,53 +34,34 @@ Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao esta
 ![image](https://user-images.githubusercontent.com/78602574/170101852-4cab57d2-a4be-4693-8508-7bf78e3b7886.png)
 
 
-# Instruções
+# Perguntas Frequentes
 
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
+## Perguntas Frequentes: 
+### O que é TypeScript?
 
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
+TypeScript é uma linguagem de programação e também um superconjunto de JavaScript. Isso quer dizer que todo o código JavaScript é perfeitamente aceito em um programa de JavaScript, adicionando uma série de recursos a mais, em especial relacionados a tipagem.
 
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
+### Quais são as vantagens do TypeScript?
 
-# Tecnologias Envolvidas
+São diversas as vantagens, em especial ligadas a tipagem estática:
 
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
+• Feedback mais rápido de erros e em tempo de compilação;
+• Processo de refatoração mais fácil;
+• Autocomplete da linguagem;
+• Possibilidade de migrar de linguagem de pouco a pouco
+• Ter uma empresa grande por trás para trazer agilidade nas novas versões, no caso a Microsoft
+• Qual é a diferença entre JavaScript e TypeScript?
 
-- Tech 01
-- Tech 02
-- Tech 03
 
-# Roadmap
-- [x] Configuração do Projeto
-- [ ] Criação da Interface
-- [ ] Correção de Bugs 
 
 # Outras informações
 
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
+São duas linguagens de programação diferentes, porém uma é o superconjunto de outra. TypeScript é esse superconjunto, possibilitando que você use absolutamente tudo do JavaScript de forma válida. isto é, todo seu código JavaScript é válido em TypeScript (mas não o contrário). A principal diferença vai ser em relação a tipagem de dados, ao uso de classes, aos mecanismos de abstração, que são bem mais fortes.
 
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
 
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
-
-# Licença
-
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
-
-# Equipe
-
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
+# Autor
 
 Pessoa | Cargo | Social Link
 :-----:|:-----:|:----------:
-Adriano | TechLead | [Github](http://www.github.com/adrianoleitedasilva)
-Adriano | TechLead | [Github](http://www.github.com/adrianoleitedasilva)
-Adriano | TechLead | [Github](http://www.github.com/adrianoleitedasilva)
+Adriano | Desenvolvedor FullStack | [Linked-in](https://www.linkedin.com/in/renato-sampaio-52266b11a/)
+
