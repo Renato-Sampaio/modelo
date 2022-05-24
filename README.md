@@ -26,10 +26,6 @@ Nesta formação vamos ver um panorama de uso do TypeScript, mergulhando progres
 
 Esta é a parte 1/3 desse curso.
 
-<!-- 
-    AS IMAGENS DE BANNERS EU COLOQUEI UM TAMANHO DE 1280 X 300 
-    PARA IMAGENS DE TELA E OUTRAS NECESSIDADES, COLOQUE 1280 X 1280
--->
 ![image](https://user-images.githubusercontent.com/78602574/170101852-4cab57d2-a4be-4693-8508-7bf78e3b7886.png)
 
 
