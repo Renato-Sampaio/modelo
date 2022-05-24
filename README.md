@@ -13,12 +13,9 @@
 
 
 - [Descrição](#descrição)
-- [Instruções](#instruções)
-- [Tecnologias Envolvidas](#tecnologias-envolvidas)
-- [Roadmap](#roadmap)
+- [Perguntas Frequentes](#perguntas-frequentes)
 - [Outras informações](#outras-informações)
-- [Licença](#licença)
-- [Equipe](#equipe)
+- [Autor](#autor)
   
 # Descrição
 
@@ -26,6 +23,8 @@
 Você já deve ter ouvido falar que o TypeScript é um super-set (ou superconjunto) da linguagem JavaScript. Mas o que isso significa? O TypeScript (TS) consegue utilizar todo o contexto do JavaScript (JS) e acrescenta vantagens próprias, como tipagem estática e outros recursos da linguagem que tornam o código menos suscetível a erros durante o desenvolvimento e bugs. Assim, ao utilizar essa linguagem, a sua experiência será bem mais fluida e sofisticada.
 
 Nesta formação vamos ver um panorama de uso do TypeScript, mergulhando progressivamente na linguagem, e mostrando as vantagens e diferenças em relação ao JavaScript, além de apresentar as melhores práticas para você utilizar TypeScript nas suas aplicações.
+
+Esta é a parte 1/3 desse curso.
 
 <!-- 
     AS IMAGENS DE BANNERS EU COLOQUEI UM TAMANHO DE 1280 X 300 
@@ -35,8 +34,6 @@ Nesta formação vamos ver um panorama de uso do TypeScript, mergulhando progres
 
 
 # Perguntas Frequentes
-
-## Perguntas Frequentes: 
 ### O que é TypeScript?
 
 TypeScript é uma linguagem de programação e também um superconjunto de JavaScript. Isso quer dizer que todo o código JavaScript é perfeitamente aceito em um programa de JavaScript, adicionando uma série de recursos a mais, em especial relacionados a tipagem.
@@ -63,5 +60,5 @@ São duas linguagens de programação diferentes, porém uma é o superconjunto 
 
 Pessoa | Cargo | Social Link
 :-----:|:-----:|:----------:
-Adriano | Desenvolvedor FullStack | [Linked-in](https://www.linkedin.com/in/renato-sampaio-52266b11a/)
+Renato Duarte Sampaio | Desenvolvedor FullStack | [Linked-in](https://www.linkedin.com/in/renato-sampaio-52266b11a/)
 
