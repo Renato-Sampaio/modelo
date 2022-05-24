@@ -9,7 +9,8 @@
 ![ShielddoProjeto](https://img.shields.io/github/last-commit/renato-sampaio/modelo?style=for-the-badge)
 
 <!-- Envie a imagem por meio de uma ISSUE e cole o link aqui nessa linha abaixo -->
-![BANNER DO PROJETO](https://user-images.githubusercontent.com/6373438/157747252-231fc7b4-ee96-45fb-a7e0-1278862b6b0f.png)
+![Captura de tela 2022-05-24 145803](https://user-images.githubusercontent.com/78602574/170101631-0425fe2f-a848-48f4-aef2-76be99ba273a.png)
+
 
 - [Descrição](#descrição)
 - [Instruções](#instruções)
@@ -31,7 +32,8 @@ Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao esta
     AS IMAGENS DE BANNERS EU COLOQUEI UM TAMANHO DE 1280 X 300 
     PARA IMAGENS DE TELA E OUTRAS NECESSIDADES, COLOQUE 1280 X 1280
 -->
-![IMAGEM DO PROJETO](https://user-images.githubusercontent.com/6373438/157749627-e718fa74-f7ce-49e8-9ffa-81271f47daf5.png)
+![image](https://user-images.githubusercontent.com/78602574/170101852-4cab57d2-a4be-4693-8508-7bf78e3b7886.png)
+
 
 # Instruções
 
